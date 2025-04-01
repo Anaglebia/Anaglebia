@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anaglebia
-- 👀 I’m interested in Beck-end
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bia22.sp@icloud.com
 
